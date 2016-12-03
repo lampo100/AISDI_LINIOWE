@@ -1,11 +1,6 @@
 #ifndef AISDI_LINEAR_VECTOR_H
 #define AISDI_LINEAR_VECTOR_H
 
-m.szlenk@elka.pw.edu.pl
-w tytule maila
-AISDI - Zad 1
-
-
 
 #include <cstddef>
 #include <initializer_list>
