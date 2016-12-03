@@ -1,0 +1,2 @@
+{ 'benchmark_name' : 'Randomly inserting doubles', 'experiment_name' : 'list', 'time_type' : 'milliseconds', 'factor_name' : 'number of elements', 'factors' : [ 10, 30, 60, 100, 200, 300, 600, 1000, 2000, 3000, 6000, 10000 ], 'timings' : [ 0, 0, 0, 0, 0, 0, 0, 3, 18, 48, 273, 1110 ] } 
+{ 'benchmark_name' : 'Randomly inserting doubles', 'experiment_name' : 'vector', 'time_type' : 'milliseconds', 'factor_name' : 'number of elements', 'factors' : [ 10, 30, 60, 100, 200, 300, 600, 1000, 2000, 3000, 6000, 10000 ], 'timings' : [ 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 17, 47 ] } 

@@ -1,0 +1,2 @@
+{ 'benchmark_name' : 'blabla', 'experiment_name' : 'list', 'time_type' : 'milliseconds', 'factor_name' : 'number of elements', 'factors' : [ 10, 100, 1000, 10000 ], 'timings' : [ 0, 0, 4, 1474 ] } 
+{ 'benchmark_name' : 'blabla', 'experiment_name' : 'vector', 'time_type' : 'milliseconds', 'factor_name' : 'number of elements', 'factors' : [ 10, 100, 1000, 10000 ], 'timings' : [ 0, 0, 0, 69 ] } 

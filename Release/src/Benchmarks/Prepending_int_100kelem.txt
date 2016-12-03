@@ -1,0 +1,2 @@
+{ 'benchmark_name' : 'Prepending Intigers', 'experiment_name' : 'list', 'time_type' : 'milliseconds', 'factor_name' : 'number of elements', 'factors' : [ 10, 100, 1000, 3000, 6000, 10000, 20000, 40000, 60000, 100000 ], 'timings' : [ 0, 0, 0, 0, 0, 0, 1, 2, 4, 7 ] } 
+{ 'benchmark_name' : 'Prepending Intigers', 'experiment_name' : 'vector', 'time_type' : 'milliseconds', 'factor_name' : 'number of elements', 'factors' : [ 10, 100, 1000, 3000, 6000, 10000, 20000, 40000, 60000, 100000 ], 'timings' : [ 0, 0, 0, 0, 2, 6, 34, 143, 321, 951 ] } 
